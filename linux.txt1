@@ -1,0 +1,23 @@
+    1  su - ragava
+    2  clear
+    3  exit
+    4  su -
+    5  ls
+    6  clear
+    7  exit
+    8  su -
+    9  yum install git
+   10  git --version
+   11  ls
+   12  cd ..
+   13  ls
+   14  which git
+   15  cd d:
+   16  su student
+   17  adduser student
+   18  passwd student
+   19  su student
+   20  visudo 
+   21  su - student
+   22  git clone https://github.com/bobbyvanakuri/LINUX23.git WS00
+   23  history >linux.txt1
